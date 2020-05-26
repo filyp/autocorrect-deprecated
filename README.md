@@ -29,7 +29,7 @@ https://dumps.wikimedia.org/eswiki/latest/
 and download eswiki-latest-pages-articles.xml.bz2
 
 ```
-tar -jxvf eswiki-latest-pages-articles.xml.bz2
+bzip2 -d eswiki-latest-pages-articles.xml.bz2
 ```
 
 After that:
